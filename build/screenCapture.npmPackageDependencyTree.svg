@@ -36,7 +36,7 @@
 <tspan x="10" y="538">  │ └── extend@3.0.0 </tspan>
 <tspan x="10" y="554">  ├─┬ node-fetch@1.6.3 </tspan>
 <tspan x="10" y="570">  │ ├─┬ encoding@0.1.12 </tspan>
-<tspan x="10" y="586">  │ │ └── iconv-lite@0.4.15 </tspan>
+<tspan x="10" y="586">  │ │ └── iconv-lite@0.4.16 </tspan>
 <tspan x="10" y="602">  │ └── is-stream@1.1.0 </tspan>
 <tspan x="10" y="618">  ├── onecolor@3.0.4 </tspan>
 <tspan x="10" y="634">  ├─┬ optimist@0.6.1 </tspan>
